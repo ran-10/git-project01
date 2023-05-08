@@ -9,5 +9,6 @@ public class App {
         System.out.println("Hello Git! wp master first modify!");
         System.out.println("Hello GitHub! wp master first push GitHub!");
         System.out.println("Test pull from GitHub!");
+        System.out.println("Test fetch from GitHub!");
     }
 }
