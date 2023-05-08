@@ -5,5 +5,6 @@ public class App {
         System.out.println("Hello Git!");
         System.out.println("Hello Git! wp master second commit!");
         System.out.println("Hello Git! wp hotfix first commit!");
+        System.out.println("Hello Git! wp hotfix first modify!");
     }
 }
